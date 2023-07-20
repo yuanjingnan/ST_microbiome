@@ -1,5 +1,5 @@
 die "perl $0 <kraken report> <kraken table>" if(@ARGV != 2);
-open IA,"/zfssz2/ST_STOMICS/P21Z10200N0096/LC_ST/qiaositan/Stereo_Meta/08.DataBase/k2_standard_20210517/taxid.name.txt";
+open IA,"/standard_db/standard_db/taxid.name.txt";
 while(<IA>){
 	chomp;
 	my @F=split /\t/;
