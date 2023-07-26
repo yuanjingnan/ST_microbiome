@@ -1,4 +1,4 @@
-open IB,"gzip -dc $ARGV[0]|";
+open IB,$ARGV[0];
 while(<IB>){
 	chomp;
 	next unless ($_ =~ /^@/);
