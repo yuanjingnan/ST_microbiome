@@ -4,7 +4,6 @@ use warnings;
 
 my $gem_file = "gem.txt";
 my $fastq_file = "reads.fastq";
-my $output_file = "filtered_reads.fastq";
 
 # 读取gem文件，获取X_offset和Y_offset的值
 my ($x_offset, $y_offset);
@@ -31,7 +30,6 @@ close(GEM);
 
 # 读取fastq文件，判断新的"X_Y"是否存在于gem文件中，如果存在，则输出完整的4行reads信息
 open(FASTQ, "<", $fastq_file) or die "Cannot open reads.fastq: $!";
-open(OUTPUT, ">", $output_file) or die "Cannot open filtered_reads.fastq: $!";
 my ($id, $seq, $qual, $cx, $cy);
 while(<FASTQ>) {
     chomp;
@@ -47,9 +45,8 @@ while(<FASTQ>) {
         $qual = $_;
         # 判断是否存在于gem文件中，存在则输出
         if(exists $gem{"${cx}_${cy}"}) {
-            print OUTPUT "$id\n$seq\n+\n$qual\n";
+            print "$id\n$seq\n+\n$qual\n";
         }
     }
 }
 close(FASTQ);
-close(OUTPUT);
