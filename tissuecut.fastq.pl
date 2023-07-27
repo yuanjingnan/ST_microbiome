@@ -10,9 +10,9 @@ my ($x_offset, $y_offset);
 open(GEM, "<", $gem_file) or die "Cannot open gem.txt: $!";
 while(<GEM>) {
     chomp;
-    if(/^OffsetX=(\d+)/) {
+    if(/^#OffsetX=(\d+)/) {
         $x_offset = $1;
-    } elsif(/^OffsetY=(\d+)/) {
+    } elsif(/^#OffsetY=(\d+)/) {
         $y_offset = $1;
     }
 }
@@ -22,18 +22,21 @@ close(GEM);
 my %gem;
 open(GEM, "<", $gem_file) or die "Cannot open gem.txt: $!";
 while(<GEM>) {
-    chomp;
-    my ($gene, $x, $y, $count) = split(/\t/, $_);
-    $gem{"${x}_${y}"} = 1;
-}
+        chomp;
+        next if(/^#/); 
+        my ($gene, $x, $y, $count) = split(/\t/, $_);
+        $gem{"${x}_${y}"} = 1;
+    }
+
 close(GEM);
 
 # 读取fastq文件，判断新的"X_Y"是否存在于gem文件中，如果存在，则输出完整的4行reads信息
 open(FASTQ, "<", $fastq_file) or die "Cannot open reads.fastq: $!";
-my ($id, $seq, $qual, $cx, $cy);
+my ($reads,$id, $seq, $qual, $cx, $cy);
 while(<FASTQ>) {
     chomp;
     if(/^@(.*?)\|Cx:i:(\d+)\|Cy:i:(\d+)/) {
+        $reads = $_;
         $id = $1;
         $cx = $2 - $x_offset;
         $cy = $3 - $y_offset;
@@ -45,7 +48,7 @@ while(<FASTQ>) {
         $qual = $_;
         # 判断是否存在于gem文件中，存在则输出
         if(exists $gem{"${cx}_${cy}"}) {
-            print "$id\n$seq\n+\n$qual\n";
+            print "$reads\n$seq\n+\n$qual\n";
         }
     }
 }
