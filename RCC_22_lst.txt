@@ -1,0 +1,64 @@
+Achromobacter spanius
+Acinetobacter baumannii
+Actinoplanes friuliensis
+Alistipes onderdonkii
+Amycolatopsis sp. CA-230715
+Anaerocolumna sedimenticola
+Anaeromyxobacter oryzae
+Aquabacterium sp. J223
+Aquimarina sp. TRL1
+Aromatoleum bremense
+Bacteroides fragilis
+Brachybacterium kimchii
+Caproicibacter fermentans
+Casimicrobium huifangae
+Cutibacterium acnes
+Echinicola soli
+Escherichia coli
+Flavobacterium sp. CHNK8
+Halomonas piezotolerans
+Halomonas sp. 3H
+Helicobacter suis
+Ideonella dechloratans
+Klebsiella pneumoniae
+Kribbella qitaiheensis
+Lactiplantibacillus plantarum
+Lactococcus lactis
+Mannheimia haemolytica
+Marinobacterium rhizophilum
+Marvinbryantia formatexigens
+Methanosarcina horonobensis
+Moraxella osloensis
+Mucilaginibacter ginsenosidivorax
+Mus musculus mobilized endogenous polytropic provirus
+Mycolicibacter sp. MYC340
+Nannocystis sp. fl3
+Pasteurella multocida
+Peribacillus frigoritolerans
+Photobacterium gaetbulicola
+Phytohabitans flavus
+Polaribacter sp. ALD11
+Porcine type-C oncovirus
+Prevotella ruminicola
+Pseudobacter ginsenosidimutans
+Pseudomonas brenneri
+Pseudomonas sp. CIP-10
+Pseudomonas viridiflava
+Rhodococcus opacus
+Rugosibacter aromaticivorans
+Solibacillus sp. R5-41
+Sphingobacterium sp. KACC 22765
+Sphingobacterium sp. SRCM116780
+Streptococcus gordonii
+Streptomyces alfalfae
+Streptomyces clavuligerus
+Streptomyces hygroscopicus
+Streptomyces pactum
+Streptomyces sp. SN-593
+Sulfolobus acidocaldarius
+Synechococcus sp. HK01-R
+Wielerella bovis
+Winogradskyella forsetii
+[Clostridium] innocuum
+[Haemophilus] ducreyi
+secondary endosymbiont of Heteropsylla cubana
