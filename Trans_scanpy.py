@@ -21,13 +21,13 @@ data1 = st.io.read_gef(filename, bin_type='bins', bin_size=bin_size, is_sparse=T
 output_basename2 = sample_ID +"."+str(bin_size)+".scanpy_out.h5ad"
 data1.tl.raw_checkpoint()
 adata=st.io.stereo_to_anndata(data1,flavor='scanpy',output=output_basename2)
-
 adata.obs["X_Y"] = adata.obs["x"].astype(str) + "_" + adata.obs["y"].astype(str)
 adata.obs = adata.obs.set_index("X_Y")
-
-df1 = pd.read_table(anno_file, index_col=1,delimiter='\t')
+df1 = pd.read_table(anno_file, sep='\t', index_col=0)
+new_columns = list(df1.columns)[1:] # 列名列表，从第二列开始
 df1 = df1.drop(['Total'], axis=1)
-df1.set_index('X_Y', inplace=True)
+df1.columns=new_columns
+df1.index.name = 'X_Y'
 df=adata.obs[['x', 'y']]
 df.columns = ['X', 'Y']
 df['X_Y'] = df[['X', 'Y']].astype(str).apply(lambda x: '_'.join(x), axis=1)
@@ -45,7 +45,7 @@ for obs_name, info in annotation_dict.items():
     adata.obs.loc[obs_name, column_names] = info.values()
 
 for CH_name in column_names:
-    sc.pl.spatial(adata,spot_size=bin_size,color=CH_name,show=False,vmax=40)
+    sc.pl.spatial(adata,spot_size=bin_size,color=CH_name,vmax=40)
     plot_file=sample_ID+"."+str(bin_size)+"."+CH_name+".pdf"
     plt.savefig(f'{plot_file}', bbox_inches='tight', dpi=150)
     plt.close()
