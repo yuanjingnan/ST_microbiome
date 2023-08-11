@@ -1,0 +1,1197 @@
+sample	name
+A01890D1	Stenotrophomonas maltophilia
+A01890D1	Pseudomonas sp. CIP-10
+A01890D1	Vibrio parahaemolyticus
+A01890D1	Micromonospora coxensis
+A01890D1	Alkalihalobacillus krulwichiae
+A01890D1	Mycobacterium saskatchewanense
+A01890D1	Lactobacillus ultunensis
+A01890D1	Amycolatopsis sp. DSM 110486
+A01890D1	Jatrophihabitans sp. GAS493
+A01890D1	Mycobacterium sp. IDR2000157661
+A01890D2	Stenotrophomonas maltophilia
+A01890D2	Pseudomonas sp. CIP-10
+A01890D2	Vibrio parahaemolyticus
+A01890D2	Micromonospora coxensis
+A01890D2	Alkalihalobacillus krulwichiae
+A01890D2	Lactobacillus ultunensis
+A01890D2	Mycobacterium saskatchewanense
+A01890D2	Actinomyces sp. 432
+A01890D2	Ktedonosporobacter rubrisoli
+A01890D2	Jatrophihabitans sp. GAS493
+A01890D2	Pusillimonas sp. T7-7
+A01890D2	Mycobacterium sp. IDR2000157661
+A01890D2	Alicyclobacillus acidoterrestris
+A01892B6	Pseudomonas sp. CIP-10
+A01892B6	Stenotrophomonas maltophilia
+A01892B6	Vibrio parahaemolyticus
+A01892B6	Mycobacterium saskatchewanense
+A01892B6	Micromonospora coxensis
+A01892B6	Shewanella baltica
+A01892C2	Pseudomonas sp. CIP-10
+A01892C2	Stenotrophomonas maltophilia
+A01892C2	Vibrio parahaemolyticus
+A01892C2	Mycobacterium saskatchewanense
+A01892C2	Micromonospora coxensis
+A01892C2	Alkalihalobacillus krulwichiae
+A01892C2	Mycobacterium sp. IDR2000157661
+A01892C2	Ktedonosporobacter rubrisoli
+A01892C2	Helicobacter suis
+A01892C2	Microbacterium sp. LKL04
+A01894D6	Stenotrophomonas maltophilia
+A01894D6	Vibrio parahaemolyticus
+A01894D6	Micromonospora coxensis
+A01894D6	Alkalihalobacillus krulwichiae
+A01894E6	Stenotrophomonas maltophilia
+A01894E6	Vibrio parahaemolyticus
+A01894E6	Helicobacter suis
+A01894E6	Micromonospora coxensis
+A01894F4	Stenotrophomonas maltophilia
+A01894F4	Vibrio parahaemolyticus
+A01894F4	Lactobacillus ultunensis
+A01894F4	Micromonospora coxensis
+A01894F4	Alkalihalobacillus krulwichiae
+A01894F4	Mycobacterium sp. IDR2000157661
+A01894F5	Stenotrophomonas maltophilia
+A01894F5	Vibrio parahaemolyticus
+A01894F5	Methylobacterium sp. 4-46
+A01894F5	Micromonospora coxensis
+A01894F5	Streptomyces venezuelae
+A01894F5	Streptomyces nojiriensis
+A01894F5	Stenotrophomonas acidaminiphila
+A01894F5	Halopseudomonas litoralis
+A01894F5	Brevundimonas nasdae
+A01894F5	Thermobifida halotolerans
+A02184A1	Stenotrophomonas maltophilia
+A02184A1	Vibrio parahaemolyticus
+A02184A1	Mycobacterium saskatchewanense
+A02184A1	Mycolicibacterium monacense
+A02184A1	Alkalihalobacillus krulwichiae
+A02184A2	Stenotrophomonas maltophilia
+A02184A2	Vibrio parahaemolyticus
+A02184A2	Saccharothrix syringae
+A02184A2	Alkalihalobacillus krulwichiae
+B02210F4	Stenotrophomonas maltophilia
+B02210F4	Vibrio parahaemolyticus
+B02210F4	Burkholderia gladioli
+B02210F4	Micromonospora coxensis
+B02210F4	Alkalihalobacillus krulwichiae
+B02210F4	Lactobacillus johnsonii
+B02210F4	Ktedonosporobacter rubrisoli
+B02210F4	Caulobacter segnis
+B02210F4	Cellulophaga lytica
+B02210F4	Mycobacterium sp. IDR2000157661
+B02210F4	Celeribacter baekdonensis
+B02210F4	Streptomyces sp. BHT-5-2
+B02210F4	Polymorphobacter sp. PAMC 29334
+B02210F4	Rhizobium sp. WYJ-E13
+C01838C2	Stenotrophomonas maltophilia
+C01838C2	Vibrio parahaemolyticus
+C01838C2	Pseudomonas sp. CIP-10
+C01838C2	Helicobacter suis
+C01838C2	Micromonospora coxensis
+C01838C2	Megasphaera elsdenii
+C01838C2	Pantoea agglomerans
+C01838C2	Mycobacterium saskatchewanense
+C01838C2	Mycobacterium sp. IDR2000157661
+C01838C2	Rhizobium leguminosarum
+C01838C2	Alkalihalobacillus krulwichiae
+C01838C4	Vibrio parahaemolyticus
+C01838C4	Stenotrophomonas maltophilia
+C01838C4	Helicobacter suis
+C01838C4	Micromonospora coxensis
+C01838C4	Lactobacillus johnsonii
+C01838C4	Streptomyces sp. DSM 40868
+C01838C4	Solibacillus sp. R5-41
+C01838C4	Mycobacterium saskatchewanense
+C01838C4	Alkalihalobacillus krulwichiae
+C01838C4	Mycobacterium sp. IDR2000157661
+C01838C4	Caulobacter segnis
+D00864B2	Stenotrophomonas maltophilia
+D00864B2	Vibrio parahaemolyticus
+D00864B2	Micromonospora coxensis
+D00864B2	Mycobacterium saskatchewanense
+D00864B2	Alkalihalobacillus krulwichiae
+D00864B2	Achromobacter spanius
+D00864B2	Methylocella tundrae
+D00864B2	Actinomyces sp. 432
+D00864B2	Mycobacterium sp. IDR2000157661
+D00864B2	Mycobacterium gordonae
+D00864B4	Stenotrophomonas maltophilia
+D00864B4	Vibrio parahaemolyticus
+D00864B4	Micromonospora coxensis
+D00864B4	Alkalihalobacillus krulwichiae
+D00864C5	Stenotrophomonas maltophilia
+D00864C5	Vibrio parahaemolyticus
+D00864C5	Micromonospora coxensis
+D00864C5	Alkalihalobacillus krulwichiae
+D00864C5	Methylobacterium currus
+D01574E3	Stenotrophomonas maltophilia
+D01574E3	Vibrio parahaemolyticus
+D01574E3	Micromonospora coxensis
+D01574E3	Alkalihalobacillus krulwichiae
+D01574E3	Helicobacter suis
+D01574E3	Mycobacterium saskatchewanense
+D01574E3	Actinomyces sp. 432
+D01574E3	Mycobacterium sp. IDR2000157661
+D01574E3	Ktedonosporobacter rubrisoli
+D01574E3	Lactobacillus ultunensis
+D02069C1	Stenotrophomonas maltophilia
+D02069C1	Vibrio parahaemolyticus
+D02069C1	Mycobacterium saskatchewanense
+D02069C1	Micromonospora coxensis
+D02069C1	Alkalihalobacillus krulwichiae
+D02069C1	Ktedonosporobacter rubrisoli
+D02069C1	Nocardia asteroides
+D02069C2	Stenotrophomonas maltophilia
+D02069C2	Vibrio parahaemolyticus
+D02069C2	Mycobacterium saskatchewanense
+D02069C2	Micromonospora coxensis
+D02069C2	Amycolatopsis sp. DSM 110486
+D02069C2	Alkalihalobacillus krulwichiae
+D02069C2	Streptomyces venezuelae
+D02069C2	Mycobacterium sp. IDR2000157661
+D02069C2	Ktedonosporobacter rubrisoli
+D02069C2	Actinomyces sp. 432
+D02165C6	Stenotrophomonas maltophilia
+D02165C6	Pseudomonas sp. CIP-10
+D02165C6	Micromonospora coxensis
+D02165C6	Vibrio parahaemolyticus
+D02165C6	Fusobacterium nucleatum
+D02165C6	Amycolatopsis sp. DSM 110486
+D02165C6	Pseudoprevotella muciniphila
+D02165C6	Alkalihalobacillus krulwichiae
+D02165C6	Mycobacterium saskatchewanense
+D02165C6	Mycobacteroides abscessus
+D02165C6	Lactobacillus ultunensis
+D02165C6	Brevundimonas sp. AJA228-03
+D02165C6	Mycobacterium sp. IDR2000157661
+D02165C6	Streptomyces sp. 891-h
+D02165D1	Stenotrophomonas maltophilia
+D02165D1	Vibrio parahaemolyticus
+D02165D1	Micromonospora coxensis
+D02165D1	Amycolatopsis sp. DSM 110486
+D02165D1	Alkalihalobacillus krulwichiae
+D02165D1	Rhizobium leguminosarum
+D02165D1	Brevundimonas sp. AJA228-03
+D02165D1	Mycobacterium saskatchewanense
+D02165D1	Streptomyces phaeolivaceus
+D02165D1	Mycobacterium gordonae
+D02165D1	Lactobacillus ultunensis
+D02165D1	Solibacillus sp. R5-41
+D02165D1	Mycobacterium sp. IDR2000157661
+D02165D1	Polymorphobacter sp. PAMC 29334
+D02165D2	Selenomonas sputigena
+D02165D2	Fusobacterium nucleatum
+D02165D2	Dialister pneumosintes
+D02165D2	Stenotrophomonas maltophilia
+D02165D2	Lachnoanaerobaculum umeaense
+D02165D2	Micromonospora coxensis
+D02165D2	Prevotella melaninogenica
+D02165D2	Vibrio parahaemolyticus
+D02165D2	Prevotella oris
+D02165D2	Mogibacterium diversum
+D02165D2	Amycolatopsis sp. DSM 110486
+D02165D2	Alkalihalobacillus krulwichiae
+D02165D2	Limosilactobacillus mucosae
+D02165D2	Mycobacterium saskatchewanense
+D02165D3	Stenotrophomonas maltophilia
+D02165D3	Vibrio parahaemolyticus
+D02165D3	Micromonospora coxensis
+D02165D3	Amycolatopsis sp. DSM 110486
+D02165D3	Alkalihalobacillus krulwichiae
+D02165D3	Xanthomonas translucens
+D02165D3	Nonomuraea gerenzanensis
+D02165D3	Haemophilus parahaemolyticus
+D02165D3	Streptomyces phaeolivaceus
+D02165D3	Brevundimonas sp. AJA228-03
+D02165D3	Ktedonosporobacter rubrisoli
+D02165D3	Mycobacterium sp. IDR2000157661
+D02165D3	Pseudonocardia sp. HH130630-07
+D02165D3	Nocardia asteroides
+D02165D3	Streptomyces tuirus
+D02165D3	Limosilactobacillus mucosae
+D02165D3	Thermobifida halotolerans
+D02165D4	Prevotella intermedia
+D02165D4	Fusobacterium nucleatum
+D02165D4	Prevotella oris
+D02165D4	Gemella morbillorum
+D02165D4	Lachnoanaerobaculum umeaense
+D02165D4	Stenotrophomonas maltophilia
+D02165D4	Schaalia odontolytica
+D02165D4	Prevotella melaninogenica
+D02165D4	Micromonospora coxensis
+D02165D4	Vibrio parahaemolyticus
+D02165D4	Streptococcus anginosus
+D02165D4	Dialister pneumosintes
+D02165D4	Amycolatopsis sp. DSM 110486
+D02165D4	Selenomonas sp. oral taxon 478
+D02165D4	Ligilactobacillus salivarius
+D02165D4	Lactobacillus ultunensis
+D02165D4	Mycobacterium saskatchewanense
+D02165D4	Vibrio sp. B1FLJ16
+D02165D4	Mycobacterium sp. IDR2000157661
+D02165D5	Stenotrophomonas maltophilia
+D02165D5	Vibrio parahaemolyticus
+D02165D5	Micromonospora coxensis
+D02165D5	Prevotella melaninogenica
+D02165D5	Agrobacterium tumefaciens
+D02165D5	Nonomuraea gerenzanensis
+D02165D5	Lactobacillus ultunensis
+D02165D5	Brevundimonas sp. AJA228-03
+D02165D5	Sinorhizobium meliloti
+D02165D5	Amycolatopsis sp. DSM 110486
+D02165D5	Parabacteroides distasonis
+D02165D5	Mycobacterium sp. IDR2000157661
+D02165D5	Streptomyces sp. 891-h
+D02165D6	Stenotrophomonas maltophilia
+D02165D6	Helicobacter pylori
+D02165D6	Vibrio parahaemolyticus
+D02165D6	Micromonospora coxensis
+D02165D6	Amycolatopsis sp. DSM 110486
+D02165D6	Saccharothrix syringae
+D02165D6	Mycobacterium saskatchewanense
+D02165D6	Alkalihalobacillus krulwichiae
+D02165D6	Lactobacillus ultunensis
+D02165D6	Streptomyces formicae
+D02165D6	Celeribacter baekdonensis
+D02165D6	Ligilactobacillus salivarius
+D02165D6	Streptomyces tuirus
+D02165D6	Mycobacterium gordonae
+D02165D6	Amycolatopsis albispora
+D02165D6	Brevundimonas sp. AJA228-03
+D02165D6	Ktedonosporobacter rubrisoli
+D02165D6	Halomonas meridiana
+D02165D6	Pseudonocardia sp. HH130630-07
+D02165D6	Polymorphobacter sp. PAMC 29334
+D02165D6	Mycobacterium sp. IDR2000157661
+D02165D6	Cellulomonas sp. C5510
+D02165E1	Stenotrophomonas maltophilia
+D02165E1	Vibrio parahaemolyticus
+D02165E1	Micromonospora coxensis
+D02165E1	Tannerella forsythia
+D02165E1	Alkalihalobacillus krulwichiae
+D02165E1	Ktedonosporobacter rubrisoli
+D02165E1	Jatrophihabitans sp. GAS493
+D02165E2	Stenotrophomonas maltophilia
+D02165E2	Vibrio parahaemolyticus
+D02165E2	Amycolatopsis sp. DSM 110486
+D02165E2	Micromonospora coxensis
+D02165E2	Helicobacter suis
+D02165E2	Mycobacterium saskatchewanense
+D02165E2	Alkalihalobacillus krulwichiae
+D02165E2	Lactobacillus ultunensis
+D02165E2	Solibacillus sp. R5-41
+D02165E2	Brevundimonas sp. AJA228-03
+D02165E2	Pseudonocardia sp. HH130630-07
+D02165E2	Mycobacterium sp. IDR2000157661
+D02165E2	Ktedonosporobacter rubrisoli
+D02165E2	Roseomonas sp. OT10
+D02165E3	Stenotrophomonas maltophilia
+D02165E3	Helicobacter pylori
+D02165E3	Vibrio parahaemolyticus
+D02165E3	Micromonospora coxensis
+D02165E3	Helicobacter suis
+D02165E3	Lactobacillus johnsonii
+D02165E3	Amycolatopsis sp. DSM 110486
+D02165E3	Alkalihalobacillus krulwichiae
+D02165E3	Empedobacter falsenii
+D02165E3	Mycobacterium saskatchewanense
+D02165E3	Streptomyces sp. 891-h
+D02165E3	Streptomyces sp. Z423-1
+D02165E3	Brevundimonas sp. AJA228-03
+D02165E3	Gimesia aquarii
+D02165E3	Streptomyces phaeolivaceus
+D02165E3	Streptomyces tuirus
+D02165E3	Polymorphobacter sp. PAMC 29334
+D02165E3	Mycobacterium sp. IDR2000157661
+D02165E3	Cellulomonas sp. C5510
+D02165E4	Stenotrophomonas maltophilia
+D02165E4	Vibrio parahaemolyticus
+D02165E4	Porphyromonas gingivalis
+D02165E4	Micromonospora coxensis
+D02165E4	Alkalihalobacillus krulwichiae
+D02165E4	Ktedonosporobacter rubrisoli
+D02165E4	Actinomyces sp. 432
+D02165E4	Halomonas meridiana
+D02165E4	Mycobacterium sp. IDR2000157661
+D02165E6	Stenotrophomonas maltophilia
+D02165E6	Vibrio parahaemolyticus
+D02165E6	Micromonospora coxensis
+D02165E6	Amycolatopsis sp. DSM 110486
+D02165E6	Streptomyces nojiriensis
+D02165E6	Helicobacter suis
+D02165E6	Alkalihalobacillus krulwichiae
+D02165E6	Serratia marcescens
+D02165E6	Lactobacillus johnsonii
+D02165E6	Lactobacillus ultunensis
+D02165E6	Mycobacterium saskatchewanense
+D02165E6	Brevundimonas sp. AJA228-03
+D02165E6	Staphylococcus pseudintermedius
+D02165E6	Mycobacterium sp. IDR2000157661
+D02165E6	Vibrio sp. B1FLJ16
+D02165E6	Halomonas meridiana
+D02172E3	Stenotrophomonas maltophilia
+D02172E3	Vibrio parahaemolyticus
+D02172E3	Fusobacterium nucleatum
+D02172E3	Prevotella melaninogenica
+D02172E3	Ligilactobacillus salivarius
+D02172E3	Lachnoanaerobaculum umeaense
+D02172E3	Micromonospora coxensis
+D02172E3	Saccharothrix syringae
+D02172E3	Gemella morbillorum
+D02172E3	Alkalihalobacillus krulwichiae
+D02172E3	Streptomyces tirandamycinicus
+D02172E3	Mycobacterium sp. IDR2000157661
+D02172E6	Stenotrophomonas maltophilia
+D02172E6	Vibrio parahaemolyticus
+D02172E6	Micromonospora coxensis
+D02172E6	Lactobacillus ultunensis
+D02172E6	Methylomonas koyamae
+D02172E6	Alkalihalobacillus krulwichiae
+D02172E6	Mycobacterium sp. IDR2000157661
+D02172E6	Streptomyces sp. CNQ-509
+D02172E6	Streptomyces sp. 891-h
+D02172E6	Paenibacillus lutimineralis
+D02172E6	Halomonas meridiana
+D02172E6	Streptomyces tuirus
+D02173E3	Stenotrophomonas maltophilia
+D02173E3	Micromonospora coxensis
+D02173E3	Vibrio parahaemolyticus
+D02173E3	Gemella haemolysans
+D02173E3	Prevotella intermedia
+D02173E3	Prevotella melaninogenica
+D02173E3	Saccharothrix syringae
+D02173E3	Alkalihalobacillus krulwichiae
+D02173E3	Brevundimonas sp. AJA228-03
+D02173E3	Phytohabitans flavus
+D02173E3	Amycolatopsis sp. FU40
+D02173E3	Polymorphobacter sp. PAMC 29334
+D02173E4	Stenotrophomonas maltophilia
+D02173E4	Vibrio parahaemolyticus
+D02173E4	Micromonospora coxensis
+D02173E4	Mycobacterium saskatchewanense
+D02173E4	Caulobacter segnis
+D02173E4	Streptomyces sp. CNQ-509
+D02173E4	Alkalihalobacillus krulwichiae
+D02173E4	Halomonas meridiana
+D02173E4	Streptomyces tuirus
+D02173E4	Cellulophaga lytica
+D02173E4	Mycobacterium sp. IDR2000157661
+D02173E4	Polymorphobacter sp. PAMC 29334
+D02173E6	Helicobacter pylori
+D02173E6	Stenotrophomonas maltophilia
+D02173E6	Vibrio parahaemolyticus
+D02173E6	Micromonospora coxensis
+D02173E6	Streptomyces nojiriensis
+D02173E6	Amycolatopsis sp. DSM 110486
+D02173E6	Alkalihalobacillus krulwichiae
+D02173E6	Lactobacillus ultunensis
+D02173E6	Streptomyces prasinus
+D02173E6	Mycobacterium sp. IDR2000157661
+D02173E6	Helicobacter suis
+D02173E6	Streptomyces sp. 891-h
+D02173F5	Prevotella intermedia
+D02173F5	Prevotella oris
+D02173F5	Stenotrophomonas maltophilia
+D02173F5	Gemella haemolysans
+D02173F5	Vibrio parahaemolyticus
+D02173F5	Fusobacterium nucleatum
+D02173F5	Prevotella melaninogenica
+D02173F5	Helicobacter pylori
+D02173F5	Micromonospora coxensis
+D02173F5	Streptomyces armeniacus
+D02173F5	Saccharothrix syringae
+D02173F5	Polymorphobacter sp. PAMC 29334
+D02173F6	Stenotrophomonas maltophilia
+D02173F6	Vibrio parahaemolyticus
+D02173F6	Micromonospora coxensis
+D02173F6	Lactobacillus ultunensis
+D02173F6	Alkalihalobacillus krulwichiae
+D02173F6	Mycobacterium saskatchewanense
+D02173F6	Nocardioides sp. zg-579
+D02173F6	Amycolatopsis sp. DSM 110486
+D02173F6	Mycobacterium sp. IDR2000157661
+FP200000421BR_D1	Stenotrophomonas maltophilia
+FP200000421BR_D1	Vibrio parahaemolyticus
+FP200000421BR_D1	Pseudomonas sp. CIP-10
+FP200000421BR_D1	Amycolatopsis sp. DSM 110486
+FP200000421BR_D1	Micromonospora coxensis
+FP200000421BR_D1	Alkalihalobacillus krulwichiae
+FP200000421BR_D1	Mycobacterium saskatchewanense
+FP200000421BR_D1	Actinocatenispora thailandica
+FP200000421BR_D1	Jatrophihabitans sp. GAS493
+FP200000421BR_D2	Vibrio parahaemolyticus
+FP200000421BR_D2	Stenotrophomonas maltophilia
+FP200000421BR_D3	Vibrio parahaemolyticus
+FP200000421BR_D3	Pseudomonas sp. CIP-10
+FP200000421BR_D3	Stenotrophomonas maltophilia
+FP200000421BR_D3	Alkalihalobacillus krulwichiae
+FP200000421BR_D3	Micromonospora coxensis
+FP200000421BR_D4	Stenotrophomonas maltophilia
+FP200000421BR_D4	Micromonospora coxensis
+FP200000421BR_D4	Vibrio parahaemolyticus
+FP200000421BR_D4	Streptomyces phaeolivaceus
+FP200000421BR_D4	Streptomyces sp. DSM 40868
+FP200000421BR_D4	Nonomuraea gerenzanensis
+FP200000421BR_D4	Alkalihalobacillus krulwichiae
+FP200000421BR_D4	Thermobifida fusca
+FP200000421BR_D4	Amycolatopsis sp. DSM 110486
+FP200000421BR_D4	Streptomyces griseoviridis
+FP200000421BR_D4	Mycobacterium saskatchewanense
+FP200000421BR_D4	Phytohabitans flavus
+FP200000421BR_D4	Saccharothrix syringae
+FP200000421BR_D4	Streptomyces tsukubensis
+FP200000421BR_D4	Streptomyces armeniacus
+FP200000421BR_D4	Jatrophihabitans sp. GAS493
+FP200000421BR_D4	Streptomyces spectabilis
+FP200000421BR_D4	Methylocella tundrae
+FP200000421BR_D4	Streptomyces pactum
+FP200000421BR_D4	Streptomyces alfalfae
+FP200000421BR_D4	Ehrlichia canis
+FP200000421BR_D4	Micromonospora echinospora
+FP200000421BR_D4	Mesorhizobium sp. INR15
+FP200000421BR_D4	Micromonospora auratinigra
+FP200000421BR_D4	Streptomyces tuirus
+FP200000421BR_D4	Actinomyces sp. 432
+FP200000421BR_D4	Mycobacterium sp. IDR2000157661
+FP200000421BR_D4	Actinomyces sp. oral taxon 414
+FP200000421BR_D4	Polymorphobacter sp. PAMC 29334
+FP200000421BR_D4	Streptomyces sp. CNQ-509
+FP200000421BR_D4	Streptomyces coeruleorubidus
+FP200000421BR_D4	Roseomonas sp. OT10
+FP200000421BR_D4	Microbacterium schleiferi
+FP200000421BR_D4	Streptomyces sp. BHT-5-2
+FP200000421BR_D4	Kurthia sp. 11kri321
+FP200000421BR_D4	Cellulomonas sp. C5510
+FP200000421BR_D4	Thermobifida halotolerans
+FP200000421BR_D4	Streptomyces sp. 891-h
+FP200000421BR_D4	Streptomyces sp. AMCC400023
+FP200000421BR_D4	Vagococcus fluvialis
+FP200000421BR_E3	Stenotrophomonas maltophilia
+FP200000421BR_E3	Vibrio parahaemolyticus
+FP200000421BR_E3	Amycolatopsis sp. DSM 110486
+FP200000421BR_E3	Alkalihalobacillus krulwichiae
+FP200000421BR_E3	Micromonospora coxensis
+FP200000421BR_E3	Mycobacterium saskatchewanense
+FP200000421BR_E3	Actinocatenispora thailandica
+FP200000421BR_E3	Actinomyces sp. 432
+FP200000421BR_E3	Rhodoferax sp. PAMC 29310
+FP200000421BR_E3	Streptomyces nojiriensis
+FP200000421BR_E3	Methylocella tundrae
+FP200000421BR_E3	Ktedonosporobacter rubrisoli
+FP200000421BR_E3	Jatrophihabitans sp. GAS493
+FP200000421BR_E3	Celeribacter baekdonensis
+FP200000421BR_E3	Jiangella alkaliphila
+FP200000421BR_E3	Pseudonocardia sp. HH130630-07
+FP200000421BR_E3	Halomonas meridiana
+FP200000421BR_E3	Caulobacter segnis
+FP200000421BR_E3	Microbacterium sp. LKL04
+FP200000421BR_E3	Mycobacterium sp. IDR2000157661
+FP200000421BR_E4	Stenotrophomonas maltophilia
+FP200000421BR_E4	Micromonospora coxensis
+FP200000421BR_E4	Vibrio parahaemolyticus
+FP200000421BR_E4	Amycolatopsis sp. DSM 110486
+FP200000421BR_E4	Streptomyces phaeolivaceus
+FP200000421BR_E4	Streptomyces sp. DSM 40868
+FP200000421BR_E4	Nonomuraea gerenzanensis
+FP200000421BR_E4	Alkalihalobacillus krulwichiae
+FP200000421BR_E4	Thermobifida fusca
+FP200000421BR_E4	Streptomyces griseoviridis
+FP200000421BR_E4	Saccharothrix syringae
+FP200000421BR_E4	Mycobacterium saskatchewanense
+FP200000421BR_E4	Streptomyces tsukubensis
+FP200000421BR_E4	Streptomyces armeniacus
+FP200000421BR_E4	Phytohabitans flavus
+FP200000421BR_E4	Streptomyces alfalfae
+FP200000421BR_E4	Streptomyces spectabilis
+FP200000421BR_E4	Jatrophihabitans sp. GAS493
+FP200000421BR_E4	Micromonospora echinospora
+FP200000421BR_E4	Streptomyces pactum
+FP200000421BR_E4	Lactobacillus ultunensis
+FP200000421BR_E4	Ehrlichia canis
+FP200000421BR_E4	Rhizobium leguminosarum
+FP200000421BR_E4	Bacillus mycoides
+FP200000421BR_E4	Roseomonas sp. OT10
+FP200000421BR_E4	Streptomyces tuirus
+FP200000421BR_E4	Streptomyces harbinensis
+FP200000421BR_E4	Streptomyces sp. W1SF4
+FP200000421BR_E4	Mesorhizobium sp. INR15
+FP200000421BR_E4	Methylocella tundrae
+FP200000421BR_E4	Micromonospora auratinigra
+FP200000421BR_E4	Rhodoferax sp. PAMC 29310
+FP200000421BR_E4	Nocardia asteroides
+FP200000421BR_E4	Streptomyces hygroscopicus
+FP200000421BR_E4	Streptomyces sp. CNQ-509
+FP200000421BR_E4	Cellulosimicrobium cellulans
+FP200000421BR_E4	Actinomyces sp. oral taxon 414
+FP200000421BR_E4	Streptomyces griseocarneus
+FP200000421BR_E4	Rhodanobacter denitrificans
+FP200000421BR_E4	Lacticaseibacillus paracasei
+FP200000421BR_E4	Actinomyces sp. 432
+FP200000421BR_E4	Streptomyces vinaceus
+FP200000421BR_E4	Streptomyces tendae
+FP200000421BR_E4	Micromonospora tulbaghiae
+FP200000421BR_E4	Jiangella alkaliphila
+FP200000421BR_E4	Micromonospora echinofusca
+FP200000421BR_E4	Streptomyces glaucescens
+FP200000421BR_E4	Streptomyces griseorubiginosus
+FP200000421BR_E4	Streptomyces sp. 2323.1
+FP200000421BR_E4	Streptomyces coeruleorubidus
+FP200000421BR_E4	Polymorphobacter sp. PAMC 29334
+FP200000421BR_E4	Corynebacterium atypicum
+FP200000421BR_E4	Pseudonocardia sp. DSM 110487
+FP200000421BR_E4	Streptomyces formicae
+FP200000421BR_E4	Streptomyces sp. 891-h
+FP200000421BR_E4	Microbacterium schleiferi
+FP200000421BR_E4	Mycolicibacterium monacense
+FP200000421BR_E4	Rhizobium sp. WYJ-E13
+FP200000421BR_E4	Streptomyces sp. BHT-5-2
+FP200000421BR_E4	Burkholderia ambifaria
+FP200000421BR_E4	Gimesia chilikensis
+FP200000421BR_E4	Streptomyces pluripotens
+FP200000421BR_E4	Mycobacterium kubicae
+FP200000421BR_E4	Cellulomonas sp. C5510
+FP200000421BR_E4	Halomonas meridiana
+FP200000421BR_E4	Streptomyces sp. AMCC400023
+FP200000421BR_E4	Thermobifida halotolerans
+FP200000421BR_E4	Vogesella sp. XCS3
+FP200000586TR_A1	Pseudomonas sp. CIP-10
+FP200000586TR_A1	Vibrio parahaemolyticus
+FP200000586TR_A1	Stenotrophomonas maltophilia
+FP200000586TR_A1	Micromonospora coxensis
+FP200000586TR_A1	Streptomyces sp. DSM 40868
+FP200000586TR_A1	Alkalihalobacillus krulwichiae
+FP200000586TR_A1	Chryseobacterium arthrosphaerae
+FP200000586TR_A1	Kurthia sp. 11kri321
+FP200000586TR_A1	Helicobacter suis
+FP200000586TR_A1	Streptomyces phaeolivaceus
+FP200000586TR_A1	Lactobacillus amylovorus
+FP200000586TR_A1	Streptomyces griseoviridis
+FP200000586TR_A1	Amycolatopsis sp. DSM 110486
+FP200000586TR_A1	Lactobacillus johnsonii
+FP200000586TR_A1	Saccharothrix syringae
+FP200000586TR_A1	Mycobacterium saskatchewanense
+FP200000586TR_A1	Vogesella sp. XCS3
+FP200000586TR_A1	Thermobifida fusca
+FP200000586TR_A1	Acinetobacter pittii
+FP200000586TR_A1	Streptomyces yatensis
+FP200000586TR_A1	Streptomyces armeniacus
+FP200000586TR_A1	Streptomyces tsukubensis
+FP200000586TR_A1	Actinomyces sp. 432
+FP200000586TR_A1	Streptomyces alfalfae
+FP200000586TR_A1	Ktedonosporobacter rubrisoli
+FP200000586TR_A1	Cellulophaga lytica
+FP200000586TR_A1	Polymorphobacter sp. PAMC 29334
+FP200000586TR_A1	Streptomyces pristinaespiralis
+FP200000586TR_A1	Methylocella tundrae
+FP200000586TR_A1	Phytohabitans flavus
+FP200000586TR_A1	Enterobacter asburiae
+FP200000586TR_A1	Clostridium estertheticum
+FP200000586TR_A1	Streptomyces pactum
+FP200000586TR_A1	Herbaspirillum robiniae
+FP200000586TR_A1	Streptomyces tuirus
+FP200000586TR_A1	Streptomyces sp. BHT-5-2
+FP200000586TR_A1	Streptomyces sp. QHH-9511
+FP200000586TR_A1	Bordetella petrii
+FP200000586TR_A1	Jatrophihabitans sp. GAS493
+FP200000586TR_A1	Nissabacter sp. SGAir0207
+FP200000586TR_A1	Thermobifida halotolerans
+FP200000586TR_A1	Rhizobium sp. WYJ-E13
+FP200000586TR_A1	Streptomyces sp. 891-h
+FP200000586TR_A1	Nonomuraea gerenzanensis
+FP200000586TR_A1	Cellulomonas sp. C5510
+FP200000586TR_A1	Kurthia zopfii
+FP200000586TR_A1	Mycobacterium sp. IDR2000157661
+FP200000586TR_A1	Streptomyces sp. AMCC400023
+FP200000611TR_E1	Stenotrophomonas maltophilia
+FP200000611TR_E1	Amycolatopsis sp. DSM 110486
+FP200000611TR_E1	Vibrio parahaemolyticus
+FP200000611TR_E1	Alkalihalobacillus krulwichiae
+FP200000611TR_E1	Micromonospora coxensis
+FP200000611TR_E1	Streptomyces sp. DSM 40868
+FP200000611TR_E1	Streptomyces phaeolivaceus
+FP200000611TR_E1	Streptomyces griseoviridis
+FP200000611TR_E1	Thermobifida fusca
+FP200000611TR_E1	Saccharothrix syringae
+FP200000611TR_E1	Streptomyces armeniacus
+FP200000611TR_E1	Rhodanobacter denitrificans
+FP200000611TR_E1	Streptomyces alfalfae
+FP200000611TR_E1	Methylocella tundrae
+FP200000611TR_E1	Micromonospora echinospora
+FP200000611TR_E1	Streptomyces tsukubensis
+FP200000611TR_E1	Celeribacter baekdonensis
+FP200000611TR_E1	Mycobacterium saskatchewanense
+FP200000611TR_E1	Ktedonosporobacter rubrisoli
+FP200000611TR_E1	Rhizobium leguminosarum
+FP200000611TR_E1	Phytohabitans flavus
+FP200000611TR_E1	Rhodoferax sp. PAMC 29310
+FP200000611TR_E1	Streptomyces tuirus
+FP200000611TR_E1	Polymorphobacter sp. PAMC 29334
+FP200000611TR_E1	Halomonas meridiana
+FP200000611TR_E1	Actinomyces sp. 432
+FP200000611TR_E1	Hymenobacter sp. PAMC 26628
+FP200000611TR_E1	Jatrophihabitans sp. GAS493
+FP200000611TR_E1	Ehrlichia canis
+FP200000611TR_E1	Rhizobium sp. WYJ-E13
+FP200000611TR_E1	Roseomonas sp. OT10
+FP200000611TR_E1	Vogesella sp. XCS3
+FP200000611TR_E1	Streptomyces sp. TN58
+FP200000611TR_E1	Caulobacter segnis
+FP200000611TR_E1	Streptomyces prasinus
+FP200000611TR_E1	Mycobacterium sp. IDR2000157661
+FP200000611TR_E1	Amycolatopsis sp. TNS106
+FP200000611TR_E1	Thermobifida halotolerans
+FP200000611TR_E1	Alicyclobacillus acidoterrestris
+FP200000611TR_F1	Stenotrophomonas maltophilia
+FP200000611TR_F1	Vibrio parahaemolyticus
+FP200000611TR_F1	Amycolatopsis sp. DSM 110486
+FP200000611TR_F1	Pseudomonas sp. CIP-10
+FP200000611TR_F1	Alkalihalobacillus krulwichiae
+FP200000611TR_F1	Micromonospora coxensis
+FP200000611TR_F1	Streptomyces phaeolivaceus
+FP200000611TR_F1	Streptomyces sp. DSM 40868
+FP200000611TR_F1	Streptomyces griseoviridis
+FP200000611TR_F1	Thermobifida fusca
+FP200000611TR_F1	Kurthia sp. 11kri321
+FP200000611TR_F1	Saccharothrix syringae
+FP200000611TR_F1	Streptomyces armeniacus
+FP200000611TR_F1	Vogesella sp. XCS3
+FP200000611TR_F1	Rhodanobacter denitrificans
+FP200000611TR_F1	Micromonospora echinospora
+FP200000611TR_F1	Helicobacter suis
+FP200000611TR_F1	Streptomyces alfalfae
+FP200000611TR_F1	Streptomyces tsukubensis
+FP200000611TR_F1	Phytohabitans flavus
+FP200000611TR_F1	Methylocella tundrae
+FP200000611TR_F1	Jatrophihabitans sp. GAS493
+FP200000611TR_F1	Mycobacterium saskatchewanense
+FP200000611TR_F1	Lactobacillus ultunensis
+FP200000611TR_F1	Ehrlichia canis
+FP200000611TR_F1	Jiangella alkaliphila
+FP200000611TR_F1	Actinomyces sp. 432
+FP200000611TR_F1	Roseomonas sp. OT10
+FP200000611TR_F1	Shewanella baltica
+FP200000611TR_F1	Rhizobium sp. WYJ-E13
+FP200000611TR_F1	Stenotrophomonas acidaminiphila
+FP200000611TR_F1	Streptomyces pactum
+FP200000611TR_F1	Streptomyces glaucescens
+FP200000611TR_F1	Kurthia zopfii
+FP200000611TR_F1	Streptomyces prasinus
+FP200000611TR_F1	Nonomuraea gerenzanensis
+FP200000611TR_F1	Methylomonas koyamae
+FP200000611TR_F1	Celeribacter baekdonensis
+FP200000611TR_F1	Polymorphobacter sp. PAMC 29334
+FP200000611TR_F1	Mycobacterium sp. IDR2000157661
+FP200000611TR_F1	Amycolatopsis sp. TNS106
+FP200000611TR_F1	Olivibacter sp. LS-1
+FP200000611TR_F1	Cellulomonas sp. C5510
+FP200000611TR_F1	Thermobifida halotolerans
+FP200000611TR_F1	Vagococcus fluvialis
+FP200000611TR_F1	Streptomyces sp. 891-h
+SS200000114BR_A2	Stenotrophomonas maltophilia
+SS200000114BR_A2	Vibrio parahaemolyticus
+SS200000114BR_A2	Micromonospora coxensis
+SS200000114BR_A2	Streptomyces phaeolivaceus
+SS200000114BR_A2	Fusobacterium nucleatum
+SS200000114BR_A2	Alkalihalobacillus krulwichiae
+SS200000114BR_A2	Finegoldia magna
+SS200000114BR_A2	Campylobacter ureolyticus
+SS200000114BR_A2	Saccharothrix syringae
+SS200000114BR_A2	Streptomyces armeniacus
+SS200000114BR_A2	Thermobifida fusca
+SS200000114BR_A2	Streptomyces sp. DSM 40868
+SS200000114BR_A2	Gemella morbillorum
+SS200000114BR_A2	Streptomyces spectabilis
+SS200000114BR_A2	Amycolatopsis sp. DSM 110486
+SS200000114BR_A2	Streptomyces griseoviridis
+SS200000114BR_A2	Mycobacterium saskatchewanense
+SS200000114BR_A2	Streptomyces tsukubensis
+SS200000114BR_A2	Streptomyces sp. CNQ-509
+SS200000114BR_A2	Prevotella intermedia
+SS200000114BR_A2	Prevotella melaninogenica
+SS200000114BR_A2	Streptomyces yatensis
+SS200000114BR_A2	Phytohabitans flavus
+SS200000114BR_A2	Methylocella tundrae
+SS200000114BR_A2	Roseomonas sp. OT10
+SS200000114BR_A2	Actinomyces sp. 432
+SS200000114BR_A2	Streptomyces tuirus
+SS200000114BR_A2	Antarctobacter heliothermus
+SS200000114BR_A2	Streptomyces alfalfae
+SS200000114BR_A2	Ktedonosporobacter rubrisoli
+SS200000114BR_A2	Polymorphobacter sp. PAMC 29334
+SS200000114BR_A2	Streptomyces pactum
+SS200000114BR_A2	Jatrophihabitans sp. GAS493
+SS200000114BR_A2	Ehrlichia canis
+SS200000114BR_A2	Streptomyces sp. BHT-5-2
+SS200000114BR_A4	Stenotrophomonas maltophilia
+SS200000114BR_A4	Vibrio parahaemolyticus
+SS200000114BR_A4	Streptomyces phaeolivaceus
+SS200000114BR_A4	Micromonospora coxensis
+SS200000114BR_A4	Saccharothrix syringae
+SS200000114BR_A4	Alkalihalobacillus krulwichiae
+SS200000114BR_A4	Thermobifida fusca
+SS200000114BR_A4	Streptomyces sp. DSM 40868
+SS200000114BR_A4	Streptomyces armeniacus
+SS200000114BR_A4	Streptomyces spectabilis
+SS200000114BR_A4	Amycolatopsis sp. DSM 110486
+SS200000114BR_A4	Streptomyces griseoviridis
+SS200000114BR_A4	Streptomyces sp. CNQ-509
+SS200000114BR_A4	Streptomyces yatensis
+SS200000114BR_A4	Streptomyces tsukubensis
+SS200000114BR_A4	Rhizobium leguminosarum
+SS200000114BR_A4	Lacticaseibacillus paracasei
+SS200000114BR_A4	Streptomyces pactum
+SS200000114BR_A4	Phytohabitans flavus
+SS200000114BR_A4	Streptomyces tuirus
+SS200000114BR_A4	Micromonospora echinofusca
+SS200000114BR_A4	Mycobacterium saskatchewanense
+SS200000114BR_A4	Cellulomonas fimi
+SS200000114BR_A4	Polymorphobacter sp. PAMC 29334
+SS200000114BR_A4	Streptomyces sp. GS7
+SS200000114BR_A4	Actinomyces sp. 432
+SS200000114BR_A4	Actinomyces sp. oral taxon 414
+SS200000114BR_A4	Micromonospora tulbaghiae
+SS200000114BR_A4	Streptomyces tendae
+SS200000114BR_A4	Anaeromyxobacter sp. Fw109-5
+SS200000114BR_A4	Streptomyces alfalfae
+SS200000114BR_A4	Streptomyces sp. 891-h
+SS200000114BR_A4	Thermobifida halotolerans
+SS200000114BR_A4	Microbacterium schleiferi
+SS200000114BR_A4	Limosilactobacillus mucosae
+SS200000114BR_B3	Stenotrophomonas maltophilia
+SS200000114BR_B3	Vibrio parahaemolyticus
+SS200000114BR_B3	Pseudomonas sp. CIP-10
+SS200000114BR_B3	Deinococcus wulumuqiensis
+SS200000114BR_B3	Alkalihalobacillus krulwichiae
+SS200000114BR_B3	Saccharothrix syringae
+SS200000114BR_B3	Micromonospora coxensis
+SS200000114BR_B3	Mycobacterium saskatchewanense
+SS200000114BR_B3	Finegoldia magna
+SS200000114BR_B3	Streptomyces phaeolivaceus
+SS200000114BR_B3	Streptomyces sp. DSM 40868
+SS200000114BR_B3	Pantoea agglomerans
+SS200000114BR_B3	Streptomyces spectabilis
+SS200000114BR_B3	Ktedonosporobacter rubrisoli
+SS200000114BR_B3	Nissabacter sp. SGAir0207
+SS200000114BR_B3	Phytohabitans flavus
+SS200000114BR_B3	Streptomyces alfalfae
+SS200000114BR_B3	Clostridium estertheticum
+SS200000114BR_B3	Streptomyces tendae
+SS200000114BR_C1	Stenotrophomonas maltophilia
+SS200000114BR_C1	Vibrio parahaemolyticus
+SS200000114BR_C1	Pseudomonas sp. CIP-10
+SS200000114BR_C1	Micromonospora coxensis
+SS200000114BR_C1	Mycobacterium saskatchewanense
+SS200000114BR_C1	Alkalihalobacillus krulwichiae
+SS200000114BR_C1	Streptomyces phaeolivaceus
+SS200000114BR_C1	Amycolatopsis sp. DSM 110486
+SS200000114BR_C1	Saccharothrix syringae
+SS200000114BR_C1	Streptomyces sp. DSM 40868
+SS200000114BR_C1	Streptomyces armeniacus
+SS200000114BR_C1	Thermobifida fusca
+SS200000114BR_C1	Rhizobium leguminosarum
+SS200000114BR_C1	Streptomyces sp. CNQ-509
+SS200000114BR_C1	Streptomyces spectabilis
+SS200000114BR_C1	Methylocella tundrae
+SS200000114BR_C1	Streptomyces alfalfae
+SS200000114BR_C1	Pimelobacter simplex
+SS200000114BR_C1	Actinomyces sp. 432
+SS200000114BR_C1	Lactobacillus ultunensis
+SS200000114BR_C1	Kytococcus sedentarius
+SS200000114BR_C1	Phytohabitans flavus
+SS200000114BR_C1	Jiangella alkaliphila
+SS200000114BR_C1	Streptomyces tendae
+SS200000114BR_C1	Rhodoferax sp. PAMC 29310
+SS200000114BR_C1	Streptomyces pactum
+SS200000114BR_C1	Mycobacterium sp. IDR2000157661
+SS200000114BR_C1	Nocardia asteroides
+SS200000114BR_C1	Micromonospora auratinigra
+SS200000114BR_C1	Streptomyces tuirus
+SS200000114BR_C1	Celeribacter baekdonensis
+SS200000114BR_C1	Polymorphobacter sp. PAMC 29334
+SS200000114BR_C1	Staphylococcus delphini
+SS200000114BR_C1	Cellulomonas fimi
+SS200000114BR_C1	Streptomyces spongiicola
+SS200000114BR_C1	Lacticaseibacillus paracasei
+SS200000114BR_C1	Ehrlichia canis
+SS200000114BR_C1	Bradyrhizobium guangxiense
+SS200000114BR_C1	Ktedonosporobacter rubrisoli
+SS200000114BR_C1	Rhodospirillum rubrum
+SS200000114BR_C1	Rhizobium sp. WYJ-E13
+SS200000114BR_C1	Jatrophihabitans sp. GAS493
+SS200000114BR_C1	Alicyclobacillus acidoterrestris
+SS200000114BR_C1	Mycobacterium kubicae
+SS200000114BR_C1	Cellulomonas sp. C5510
+SS200000114BR_C1	Moellerella wisconsensis
+SS200000114BR_C1	Thermobifida halotolerans
+SS200000114BR_C1	Streptomyces sp. 891-h
+SS200000114BR_C1	Clavibacter sp. A6099
+SS200000114BR_C1	Streptomyces sp. AMCC400023
+SS200000115BR_D4	Stenotrophomonas maltophilia
+SS200000115BR_D4	Vibrio parahaemolyticus
+SS200000115BR_D4	Micromonospora coxensis
+SS200000115BR_D4	Streptomyces phaeolivaceus
+SS200000115BR_D4	Streptomyces sp. DSM 40868
+SS200000115BR_D4	Saccharothrix syringae
+SS200000115BR_D4	Alkalihalobacillus krulwichiae
+SS200000115BR_D4	Thermobifida fusca
+SS200000115BR_D4	Streptomyces armeniacus
+SS200000115BR_D4	Mycobacterium saskatchewanense
+SS200000115BR_D4	Streptomyces spectabilis
+SS200000115BR_D4	Streptomyces sp. CNQ-509
+SS200000115BR_D4	Pseudonocardia sp. HH130630-07
+SS200000115BR_D4	Streptomyces yatensis
+SS200000115BR_D4	Streptomyces tsukubensis
+SS200000115BR_D4	Streptomyces griseoviridis
+SS200000115BR_D4	Nonomuraea gerenzanensis
+SS200000115BR_D4	Lactobacillus ultunensis
+SS200000115BR_D4	Cellulosimicrobium cellulans
+SS200000115BR_D4	Methylocella tundrae
+SS200000115BR_D4	Polymorphobacter sp. PAMC 29334
+SS200000115BR_D4	Streptomyces tuirus
+SS200000115BR_D4	Cellulomonas fimi
+SS200000115BR_D4	Micromonospora chokoriensis
+SS200000115BR_D4	Roseomonas sp. OT10
+SS200000115BR_D4	Streptomyces glaucescens
+SS200000115BR_D4	Streptomyces pactum
+SS200000115BR_D4	Actinomyces sp. 432
+SS200000115BR_D4	Phytohabitans flavus
+SS200000115BR_D4	Streptomyces alfalfae
+SS200000115BR_D4	Streptomyces tendae
+SS200000115BR_D4	Pusillimonas sp. T7-7
+SS200000115BR_D4	Streptomyces nitrosporeus
+SS200000115BR_D4	Amycolatopsis albispora
+SS200000115BR_D4	Streptomyces coeruleorubidus
+SS200000115BR_D4	Thermobifida halotolerans
+SS200000115BR_D4	Jatrophihabitans sp. GAS493
+SS200000115BR_E2	Vibrio parahaemolyticus
+SS200000115BR_E2	Stenotrophomonas maltophilia
+SS200000115BR_E2	Streptomyces phaeolivaceus
+SS200000115BR_E2	Micromonospora coxensis
+SS200000115BR_E2	Streptomyces spectabilis
+SS200000115BR_E2	Streptomyces yatensis
+SS200000115BR_E2	Streptomyces armeniacus
+SS200000115BR_E2	Thermobifida fusca
+SS200000115BR_E2	Amycolatopsis sp. DSM 110486
+SS200000115BR_E2	Streptomyces sp. DSM 40868
+SS200000115BR_E2	Saccharothrix syringae
+SS200000115BR_E2	Alkalihalobacillus krulwichiae
+SS200000115BR_E2	Streptomyces griseoviridis
+SS200000115BR_E2	Streptomyces tsukubensis
+SS200000115BR_E2	Mycobacterium saskatchewanense
+SS200000115BR_E2	Micromonospora tulbaghiae
+SS200000115BR_E2	Streptomyces sp. CNQ-509
+SS200000115BR_E2	Streptomyces formicae
+SS200000115BR_E2	Phytohabitans flavus
+SS200000115BR_E2	Streptomyces genisteinicus
+SS200000115BR_E2	Lactobacillus ultunensis
+SS200000115BR_E2	Methylocella tundrae
+SS200000115BR_E2	Jatrophihabitans sp. GAS493
+SS200000115BR_E2	Streptomyces alfalfae
+SS200000115BR_E2	Cellulomonas fimi
+SS200000115BR_E2	Actinomyces sp. 432
+SS200000115BR_E2	Agromyces flavus
+SS200000115BR_E2	Actinomyces sp. oral taxon 414
+SS200000115BR_E2	Streptomyces tendae
+SS200000115BR_E2	Streptomyces nojiriensis
+SS200000115BR_E2	Streptomyces hygroscopicus
+SS200000115BR_E2	Nocardia asteroides
+SS200000115BR_E2	Streptomyces pactum
+SS200000115BR_E2	Pseudonocardia sp. HH130630-07
+SS200000115BR_E2	Mycobacterium sp. IDR2000157661
+SS200000115BR_E2	Antarctobacter heliothermus
+SS200000115BR_E2	Cellulomonas sp. C5510
+SS200000115BR_E2	Ehrlichia canis
+SS200000115BR_E2	Micromonospora auratinigra
+SS200000115BR_E2	Phytohabitans suffuscus
+SS200000115BR_E2	Roseomonas sp. OT10
+SS200000115BR_E2	Bradyrhizobium guangxiense
+SS200000115BR_E2	Cellulomonas sp. JZ18
+SS200000115BR_E2	Thermobifida halotolerans
+SS200000115BR_E2	Burkholderia stabilis
+SS200000115BR_E2	Polymorphobacter sp. PAMC 29334
+SS200000115BR_E2	Streptomyces sp. BHT-5-2
+SS200000115BR_F3	Vibrio parahaemolyticus
+SS200000115BR_F3	Pseudomonas sp. CIP-10
+SS200000115BR_F3	Stenotrophomonas maltophilia
+SS200000115BR_F3	Kurthia sp. 11kri321
+SS200000115BR_F3	Alkalihalobacillus krulwichiae
+SS200000115BR_F3	Mycobacterium saskatchewanense
+SS200000115BR_F3	Micromonospora coxensis
+SS200000115BR_F4	Stenotrophomonas maltophilia
+SS200000115BR_F4	Vibrio parahaemolyticus
+SS200000115BR_F4	Micromonospora coxensis
+SS200000115BR_F4	Pseudomonas sp. CIP-10
+SS200000115BR_F4	Streptomyces phaeolivaceus
+SS200000115BR_F4	Saccharothrix syringae
+SS200000115BR_F4	Mycobacterium saskatchewanense
+SS200000115BR_F4	Streptomyces sp. DSM 40868
+SS200000115BR_F4	Streptomyces tsukubensis
+SS200000115BR_F4	Alkalihalobacillus krulwichiae
+SS200000115BR_F4	Amycolatopsis sp. DSM 110486
+SS200000115BR_F4	Polymorphobacter sp. PAMC 29334
+SS200000115BR_F4	Amycolatopsis albispora
+SS200000115BR_F4	Streptomyces armeniacus
+SS200000115BR_F4	Streptomyces tuirus
+SS200000115BR_F4	Streptomyces spectabilis
+SS200000115BR_F4	Proteus mirabilis
+SS200000115BR_F4	Ktedonosporobacter rubrisoli
+SS200000115BR_F4	Phytohabitans flavus
+SS200000115BR_F4	Cellulophaga lytica
+SS200000115BR_F4	Streptomyces sp. CNQ-509
+SS200000115BR_F4	Gimesia aquarii
+SS200000115BR_F4	Streptomyces griseoviridis
+SS200000115BR_F4	Rhizobium leguminosarum
+SS200000115BR_F4	Gordonia terrae
+SS200000115BR_F4	Lactobacillus ultunensis
+SS200000115BR_F4	Phytohabitans suffuscus
+SS200000115BR_F4	Pimelobacter simplex
+SS200000115BR_F4	Streptomyces alfalfae
+SS200000115BR_F4	Achromobacter spanius
+SS200000115BR_F4	Streptomyces griseocarneus
+SS200000115BR_F4	Streptomyces tendae
+SS200000115BR_F4	Thermobifida halotolerans
+SS200000115BR_F4	Jatrophihabitans sp. GAS493
+SS200000115BR_F4	Streptomyces coeruleorubidus
+SS200000115BR_F4	Kurthia sp. 11kri321
+SS200000115BR_F4	Pseudonocardia sp. DSM 110487
+SS200000121BL_D3	Vibrio parahaemolyticus
+SS200000121BL_D3	Stenotrophomonas maltophilia
+SS200000121BL_D3	Micromonospora coxensis
+SS200000121BL_D3	Alkalihalobacillus krulwichiae
+SS200000121BL_D3	Amycolatopsis sp. DSM 110486
+SS200000121BL_D3	Streptomyces sp. DSM 40868
+SS200000121BL_D3	Streptomyces phaeolivaceus
+SS200000121BL_D3	Lactobacillus ultunensis
+SS200000121BL_D3	Enterococcus faecalis
+SS200000121BL_D3	Kurthia sp. 11kri321
+SS200000121BL_D3	Saccharothrix syringae
+SS200000121BL_D3	Mycobacterium saskatchewanense
+SS200000121BL_D3	Pseudonocardia sp. HH130630-07
+SS200000121BL_D3	Streptomyces alfalfae
+SS200000121BL_D3	Streptomyces nojiriensis
+SS200000121BL_D3	Methylocella tundrae
+SS200000121BL_D3	Prevotella copri
+SS200000121BL_D3	Streptomyces tsukubensis
+SS200000121BL_D3	Actinocatenispora thailandica
+SS200000121BL_D3	Phytohabitans flavus
+SS200000121BL_D3	Bacteroides thetaiotaomicron
+SS200000121BL_D3	Pusillimonas sp. T7-7
+SS200000121BL_D3	Streptomyces sp. CNQ-509
+SS200000121BL_D3	Brevundimonas sp. AJA228-03
+SS200000121BL_D3	Micromonospora auratinigra
+SS200000121BL_D3	Mesorhizobium sp. INR15
+SS200000121BL_D3	Streptomyces hygroscopicus
+SS200000121BL_D3	Jiangella alkaliphila
+SS200000121BL_D3	Antarctobacter heliothermus
+SS200000121BL_D3	Streptomyces tendae
+SS200000121BL_D3	Streptomyces sp. BHT-5-2
+SS200000121BL_D3	Nocardia mangyaensis
+SS200000121BL_D3	Streptomyces formicae
+SS200000158BL_E6	Vibrio parahaemolyticus
+SS200000158BL_E6	Stenotrophomonas maltophilia
+SS200000158BL_E6	Micromonospora coxensis
+SS200000158BL_E6	Kurthia sp. 11kri321
+SS200000158BL_E6	Mycobacterium saskatchewanense
+SS200000158BL_E6	Amycolatopsis sp. DSM 110486
+SS200000158BL_E6	Alkalihalobacillus krulwichiae
+SS200000158BL_E6	Streptomyces phaeolivaceus
+SS200000158BL_E6	Pantoea agglomerans
+SS200000158BL_E6	Saccharothrix syringae
+SS200000158BL_E6	Micromonospora tulbaghiae
+SS200000158BL_E6	Streptomyces armeniacus
+SS200000158BL_E6	Helicobacter suis
+SS200000158BL_E6	Cellulophaga lytica
+SS200000158BL_E6	Phytohabitans flavus
+SS200000158BL_E6	Nonomuraea gerenzanensis
+SS200000158BL_E6	Mesorhizobium sp. B2-1-1
+SS200000553BL_A2	Vibrio parahaemolyticus
+SS200000553BL_A2	Stenotrophomonas maltophilia
+SS200000553BL_A2	Pseudomonas sp. CIP-10
+SS200000553BL_A2	Vogesella sp. XCS3
+SS200000553BL_A2	Micromonospora coxensis
+SS200000553BL_A2	Helicobacter suis
+SS200000553BL_A2	Mycobacterium saskatchewanense
+SS200000553BL_A2	Alkalihalobacillus krulwichiae
+SS200000553BL_A2	Acinetobacter sp. Marseille-Q1620
+SS200000553BL_A2	Empedobacter falsenii
+SS200000553BL_A2	Brevundimonas sp. AJA228-03
+SS200000553BL_A2	Lactobacillus ultunensis
+SS200000553BL_A2	Vagococcus fluvialis
+SS200000553BL_A2	Streptomyces phaeolivaceus
+SS200000553BL_A2	Kurthia sp. 11kri321
+SS200000553BL_A2	Streptomyces sp. 891-h
+SS200000553BL_A2	Nonomuraea gerenzanensis
+SS200000553BL_A2	Cellulomonas sp. C5510
+SS200000553BL_A2	Erwinia rhapontici
+SS200000553BL_B1	Vibrio parahaemolyticus
+SS200000553BL_B1	Stenotrophomonas maltophilia
+SS200000553BL_B1	Amycolatopsis sp. DSM 110486
+SS200000553BL_B1	Micromonospora coxensis
+SS200000553BL_B1	Mycobacterium saskatchewanense
+SS200000553BL_B1	Alkalihalobacillus krulwichiae
+SS200000553BL_B1	Helicobacter suis
+SS200000553BL_B1	Vogesella sp. XCS3
+SS200000553BL_B1	Micromonospora auratinigra
+SS200000553BL_B1	Rhizobium leguminosarum
+SS200000553BL_B1	Clostridium bornimense
+SS200000553BL_B1	Actinomyces sp. 432
+SS200000553BL_B1	Jiangella alkaliphila
+SS200000553BL_B1	Streptomyces armeniacus
+SS200000553BL_B1	Streptomyces phaeolivaceus
+SS200000553BL_B1	Saccharothrix syringae
+SS200000553BL_B1	Brevundimonas sp. AJA228-03
+SS200000553BL_B1	Phytohabitans flavus
+SS200000553BL_B1	Cellulophaga lytica
+SS200000553BL_B1	Pseudonocardia sp. HH130630-07
+SS200000553BL_B1	Streptomyces pactum
+SS200000553BL_B1	Peribacillus frigoritolerans
+SS200000553BL_B1	Mycobacterium sp. IDR2000157661
+SS200000553BL_B1	Nonomuraea gerenzanensis
+SS200000553BL_B1	Erwinia rhapontici
+SS200000553BL_B1	Streptomyces sp. AMCC400023
+SS200000553BL_B6	Vibrio parahaemolyticus
+SS200000553BL_B6	Stenotrophomonas maltophilia
+SS200000553BL_B6	Pseudomonas sp. CIP-10
+SS200000553BL_B6	Amycolatopsis sp. DSM 110486
+SS200000553BL_B6	Micromonospora coxensis
+SS200000553BL_B6	Mycobacterium saskatchewanense
+SS200000553BL_B6	Alkalihalobacillus krulwichiae
+SS200000553BL_B6	Vogesella sp. XCS3
+SS200000553BL_B6	Rhizobium leguminosarum
+SS200000553BL_B6	Streptomyces phaeolivaceus
+SS200000553BL_B6	Streptomyces armeniacus
+SS200000553BL_B6	Nocardia terpenica
+SS200000553BL_B6	Streptomyces nojiriensis
+SS200000553BL_B6	Actinocatenispora thailandica
+SS200000553BL_B6	Saccharothrix syringae
+SS200000553BL_B6	Actinomyces sp. 432
+SS200000553BL_B6	Streptomyces pactum
+SS200000553BL_B6	Achromobacter spanius
+SS200000553BL_B6	Lacticaseibacillus paracasei
+SS200000553BL_B6	Phytohabitans flavus
+SS200000553BL_B6	Micromonospora auratinigra
+SS200000553BL_B6	Cellulophaga lytica
+SS200000553BL_B6	Antarctobacter heliothermus
+SS200000553BL_B6	Mycobacterium sp. IDR2000157661
+SS200000553BL_B6	Nissabacter sp. SGAir0207
+SS200000553BL_B6	Streptomyces sp. AMCC400023
+SS200000553BL_C1	Stenotrophomonas maltophilia
+SS200000553BL_C1	Vibrio parahaemolyticus
+SS200000553BL_C1	Streptomyces phaeolivaceus
+SS200000553BL_C1	Micromonospora coxensis
+SS200000553BL_C1	Saccharothrix syringae
+SS200000553BL_C1	Mycobacterium saskatchewanense
+SS200000553BL_C1	Streptomyces genisteinicus
+SS200000553BL_C1	Alkalihalobacillus krulwichiae
+SS200000553BL_C1	Amycolatopsis sp. DSM 110486
+SS200000553BL_C1	Streptomyces sp. DSM 40868
+SS200000553BL_C1	Agromyces flavus
+SS200000553BL_C1	Actinocatenispora thailandica
+SS200000553BL_C1	Phytohabitans flavus
+SS200000553BL_C1	Streptomyces sp. 2323.1
+SS200000553BL_C1	Streptomyces pristinaespiralis
+SS200000553BL_C1	Nocardia farcinica
+SS200000553BL_C1	Gimesia panareensis
+SS200000553BL_C1	Brevundimonas sp. AJA228-03
+SS200000553BL_C1	Micromonospora tulbaghiae
+SS200000553BL_C1	Nonomuraea gerenzanensis
+SS200000553BL_C1	Methylocella tundrae
+SS200000553BL_C1	Streptomyces sp. CNQ-509
+SS200000553BL_C1	Streptomyces griseorubiginosus
+SS200000553BL_C1	Micromonospora auratinigra
+SS200000553BL_C1	Streptomyces pactum
+SS200000553BL_C1	Streptomyces tendae
+SS200000553BL_C1	Streptomyces sp. BHT-5-2
+SS200000553BL_C1	Streptomyces tirandamycinicus
+SS200000553BL_C1	Caulobacter segnis
+SS200000553BL_C1	Streptomyces tuirus
+SS200000553BL_C1	Mycobacterium sp. IDR2000157661
+SS200000553BL_C1	Cellulomonas sp. C5510
+SS200000553BL_C1	Polymorphobacter sp. PAMC 29334
+SS200000726BL_D6	Vibrio parahaemolyticus
+SS200000726BL_D6	Stenotrophomonas maltophilia
+SS200000726BL_D6	Micromonospora coxensis
+SS200000726BL_D6	Mycobacterium saskatchewanense
+SS200000726BL_D6	Streptomyces alfalfae
+SS200000726BL_D6	Alkalihalobacillus krulwichiae
+SS200000726BL_D6	Brevundimonas sp. AJA228-03
+SS200000726BL_D6	Achromobacter spanius
+SS200000726BL_D6	Streptomyces pactum
+SS200000726BL_D6	Ktedonosporobacter rubrisoli
+SS200000726BL_E1	Stenotrophomonas maltophilia
+SS200000726BL_E1	Vibrio parahaemolyticus
+SS200000726BL_E1	Micromonospora coxensis
+SS200000726BL_E1	Mycobacterium saskatchewanense
+SS200000726BL_E1	Helicobacter suis
+SS200000726BL_E1	Streptomyces alfalfae
+SS200000726BL_E1	Lactobacillus ultunensis
+SS200000726BL_E1	Amycolatopsis sp. DSM 110486
+SS200000726BL_E1	Alkalihalobacillus krulwichiae
+SS200000726BL_E1	Streptomyces venezuelae
+SS200000726BL_E1	Streptomyces pactum
+SS200000726BL_E1	Micromonospora auratinigra
+SS200000726BL_E1	Streptomyces nojiriensis
+SS200000726BL_E1	Brevundimonas sp. AJA228-03
+SS200000726BL_E1	Phytohabitans flavus
+SS200000726BL_E3	Stenotrophomonas maltophilia
+SS200000726BL_E3	Vibrio parahaemolyticus
+SS200000726BL_E3	Micromonospora coxensis
+SS200000726BL_E3	Mycobacterium saskatchewanense
+SS200000726BL_E3	Amycolatopsis sp. DSM 110486
+SS200000726BL_E3	Alkalihalobacillus krulwichiae
+SS200000726BL_E3	Streptomyces alfalfae
+SS200000726BL_E3	Brevundimonas sp. AJA228-03
+SS200000726BL_E3	Mycobacterium kubicae
+SS200000726BL_E3	Ktedonosporobacter rubrisoli
+SS200000726BL_E3	Streptomyces pactum
+SS200000726BL_E3	Phytohabitans flavus
+SS200000726BL_E3	Mycobacterium sp. IDR2000157661
+SS200000726BL_E4	Stenotrophomonas maltophilia
+SS200000726BL_E4	Vibrio parahaemolyticus
+SS200000726BL_E4	Mycobacterium saskatchewanense
+SS200000726BL_E4	Micromonospora coxensis
+SS200000726BL_E4	Helicobacter suis
+SS200000726BL_E4	Alkalihalobacillus krulwichiae
+SS200000726BL_E4	Streptomyces alfalfae
+SS200000726BL_E4	Pusillimonas sp. T7-7
+SS200000726BL_E4	Phytohabitans flavus
+SS200000863BR_C2	Stenotrophomonas maltophilia
+SS200000863BR_C2	Vibrio parahaemolyticus
+SS200000863BR_C2	Micromonospora coxensis
+SS200000863BR_C2	Lactobacillus ultunensis
+SS200000863BR_C2	Alkalihalobacillus krulwichiae
+SS200000863BR_C2	Amycolatopsis sp. DSM 110486
+SS200000863BR_C2	Mycobacterium saskatchewanense
+SS200000863BR_C2	Streptomyces nojiriensis
+SS200000863BR_C2	Mycobacterium sp. IDR2000157661
+SS200000863BR_C2	Helicobacter suis
+SS200000863BR_C4	Stenotrophomonas maltophilia
+SS200000863BR_C4	Vibrio parahaemolyticus
+SS200000863BR_C4	Micromonospora coxensis
+SS200000863BR_C4	Mycobacterium saskatchewanense
+SS200000863BR_C4	Alkalihalobacillus krulwichiae
+SS200000863BR_C4	Brevundimonas sp. AJA228-03
+SS200000863BR_C4	Achromobacter spanius
+SS200001472BR_A5	Stenotrophomonas maltophilia
+SS200001472BR_A5	Vibrio parahaemolyticus
+SS200001472BR_A5	Candidatus Liberibacter africanus
+SS200001472BR_A5	Micromonospora coxensis
+SS200001472BR_A5	Mycobacterium sp. IDR2000157661
+SS200001472BR_B4	Stenotrophomonas maltophilia
+SS200001472BR_B4	Vibrio parahaemolyticus
+SS200001472BR_B4	Micromonospora coxensis
+SS200001472BR_B4	Helicobacter suis
+SS200001472BR_B4	Burkholderia gladioli
+SS200001472BR_B4	Lactobacillus johnsonii
+SS200001472BR_B4	Actinocatenispora thailandica
+SS200001472BR_B4	Alkalihalobacillus krulwichiae
+SS200001472BR_B4	Rhodanobacter denitrificans
+SS200001472BR_B4	Brevundimonas sp. AJA228-03
+SS200001472BR_B5	Stenotrophomonas maltophilia
+SS200001472BR_B5	Vibrio parahaemolyticus
+SS200001472BR_B5	Pseudomonas sp. CIP-10
+SS200001472BR_B5	Micromonospora coxensis
+SS200001472BR_B5	Rhodanobacter denitrificans
+SS200001472BR_B5	Serratia marcescens
