@@ -45,7 +45,7 @@ for obs_name, info in annotation_dict.items():
     adata.obs.loc[obs_name, column_names] = info.values()
 
 for CH_name in column_names:
-    sc.pl.spatial(adata,spot_size=bin_size,color=CH_name,vmax=40)
+    sc.pl.spatial(adata,spot_size=bin_size,color=CH_name,vmax=10)
     plot_file=sample_ID+"."+str(bin_size)+"."+CH_name+".UMI.pdf"
     plt.savefig(f'{plot_file}', bbox_inches='tight', dpi=150)
     plt.close()
