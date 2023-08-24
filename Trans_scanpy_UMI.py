@@ -7,7 +7,9 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import matplotlib.pyplot as plt
 warnings.filterwarnings('ignore')
+
 
 
 filename = sys.argv[1]
@@ -45,10 +47,14 @@ for obs_name, info in annotation_dict.items():
     adata.obs.loc[obs_name, column_names] = info.values()
 
 for CH_name in column_names:
-    sc.pl.spatial(adata,spot_size=bin_size,color=CH_name,vmax=10)
+    my_palette = plt.cm.get_cmap('rainbow')
+    adata.obs[CH_name] = np.where(adata.obs[CH_name] < 1, np.nan, adata.obs[CH_name])
+    median_value = np.mean(adata.obs[CH_name])
+    sc.pl.spatial(adata, spot_size=bin_size, color=CH_name,na_color='#6C6C6C',vmax=median_value, cmap=my_palette)
     plot_file=sample_ID+"."+str(bin_size)+"."+CH_name+".UMI.pdf"
     plt.savefig(f'{plot_file}', bbox_inches='tight', dpi=150)
     plt.close()
 
-output_basename3 = sample_ID+ "."+str(bin_size)+ ".h5ad"
+output_basename3 = sample_ID+ "."+str(bin_size)+ ".UMI.h5ad"
 adata.write(output_basename3)
+
